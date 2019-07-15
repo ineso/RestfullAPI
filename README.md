@@ -3,5 +3,13 @@
 			Basic restful api 
 ------------------------------------------------------------------------------
 
+##Server code
 
-This is a basic restfull api using nodejs and mongodb. you can test it using postman requests
+developped with nodejs and mongodb 
+
+##Client code
+
+developped with angular JS for testing the requests with a simple interface 
+
+
+Hope this is helpfull for you 
