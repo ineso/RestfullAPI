@@ -1,13 +1,17 @@
 # RestfullAPI
+
+
 ------------------------------------------------------------------------------
 			Basic restful api 
 ------------------------------------------------------------------------------
 
-##Server code
+
+
+## Server code
 
 developped with nodejs and mongodb 
 
-##Client code
+## Client code
 
 developped with angular JS for testing the requests with a simple interface 
 
